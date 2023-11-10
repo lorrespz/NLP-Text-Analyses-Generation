@@ -8,3 +8,7 @@ Various Jupyter notebooks on text classification and sentiment analysis by RNN, 
 2. Covid19 tweet analysis: CNN networks
  
    https://www.kaggle.com/code/lorresprz/covid19-tweet-analysis-cnn-networks
+
+3. Recommender system for movies: TF-IDF
+   https://www.kaggle.com/code/lorresprz/recommender-system-for-movies-tf-idf
+   
