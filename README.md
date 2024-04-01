@@ -1,4 +1,4 @@
-# NLP-text-analysis
+# NLP text analyses
 Various Jupyter notebooks on different NLP tasks such as text classification, sentiment analysis, topic modelling, etc. using deep learning (RNN, LSTM and their derivatives) or machine learning (LDA, NMF, SVD). Currently, the list includes the following notebooks:
 
 1. Covid19 tweet analysis: RNN, LSTM and others
