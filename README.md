@@ -2,16 +2,13 @@
 Various Jupyter notebooks on text classification and sentiment analysis by RNN, LSTM and their derivatives. Currently, the list includes the following notebooks:
 
 1. Covid19 tweet analysis: RNN, LSTM and others
-
-   https://www.kaggle.com/code/lorresprz/covid19-tweet-analysis-rnn-lstm-others
+   - https://www.kaggle.com/code/lorresprz/covid19-tweet-analysis-rnn-lstm-others
 
 2. Covid19 tweet analysis: CNN networks
- 
-   https://www.kaggle.com/code/lorresprz/covid19-tweet-analysis-cnn-networks
+    - https://www.kaggle.com/code/lorresprz/covid19-tweet-analysis-cnn-networks
 
 3. Recommender system for movies: TF-IDF
-   
-   https://www.kaggle.com/code/lorresprz/recommender-system-for-movies-tf-idf
+   -  https://www.kaggle.com/code/lorresprz/recommender-system-for-movies-tf-idf
 
 4. Topic Modelling: 2 different unsupervised techniques (LDA and Non-negative Matrix Factorization were used on the BBC article dataset)
    - Topic_Modelling_with_Latent_Dirichlet_Allocation_(LDA).ipynb
